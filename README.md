@@ -14,7 +14,7 @@ Recent graduate with a **Bachelor's of Science (Honours) Degree in Information T
 
 ##  Connect With Me
 
-- [Blusky](https://bsky.app/profile/r0d4n.bsky.social)
+- [Bluesky](https://bsky.app/profile/r0d4n.bsky.social)
 - [LinkedIn](https://www.linkedin.com/in/ryan-mazambani)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=r0d4n-dev&show_icons=true&theme=radical)
